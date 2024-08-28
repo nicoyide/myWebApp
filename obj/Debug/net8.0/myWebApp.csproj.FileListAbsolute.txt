@@ -28,3 +28,4 @@
 /workspaces/dotnet/myWebApp/obj/Debug/net8.0/myWebApp.pdb
 /workspaces/dotnet/myWebApp/obj/Debug/net8.0/myWebApp.genruntimeconfig.cache
 /workspaces/dotnet/myWebApp/obj/Debug/net8.0/ref/myWebApp.dll
+/workspaces/dotnet/myWebApp/obj/Debug/net8.0/myWebApp.sourcelink.json
